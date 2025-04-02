@@ -1,19 +1,14 @@
-
-#  hambúrguer
-
+# burger
 
 > resultado final do meu projeto .
-###   Ajustes e melhorias
-O projeto ainda está sendo desenvolvido e o mais próximo possível nas seguintes tarefas:
+
+### Ajustes e melhorias
+
+Oprojeto foi desenvolvido nas seguintes tarefas:
+
 - [x] criação JavaScript
 - [x] criação NODE
- 
-
-
-
-
-
-
+- [x] Banco de dados Docker e mongo.db
 
 às seguintes pessoas que para este projeto:
 
@@ -21,7 +16,7 @@ O projeto ainda está sendo desenvolvido e o mais próximo possível nas seguint
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./assets/foto tiago.jpeg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
+        <img src="./uploads/IMG-20241129-WA0027.jpg" width="100px;" alt="Foto do Tiago Agositnho no GitHub"/><br>
         <sub>
           <b>Tiago Agostinho</b>
         </sub>
