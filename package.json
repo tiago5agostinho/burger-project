@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/server.js",
   "engines": {
-    "node": "18.20.6"
+    "node": "18.x"
   },
   "scripts": {
     "start": "node src/server.js",
