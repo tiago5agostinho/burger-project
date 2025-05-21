@@ -9,6 +9,7 @@ class App {
   constructor() {
     this.app = express()
     this.app.use(cors())
+    this.port = process.env.PORT || 3001
 
     this.middlewares()
     this.routes()
